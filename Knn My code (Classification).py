@@ -1,4 +1,4 @@
-# Classification template
+# Non linear classification model
 
 # Importing the libraries
 import numpy as np
